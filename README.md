@@ -2,7 +2,7 @@
 My Codewars Profile Badge :D
 
 <p align="left">
-  <a target="_blank" herf="https://www.codewars.com/users/pro.programmer">
+  <a target="_blank" href="https://www.boot.dev/u/atafah">
     <img src="https://www.codewars.com/users/pro.programmer/badges/large">
   </a>
 </p>
