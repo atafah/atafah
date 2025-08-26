@@ -2,7 +2,9 @@
 My Codewars Profile Badge :D
 
 <p align="left">
-  <img src="https://www.codewars.com/users/pro.programmer/badges/large">
+  <a target="_blank" herf="https://www.codewars.com/users/pro.programmer">
+    <img src="https://www.codewars.com/users/pro.programmer/badges/large">
+  </a>
 </p>
 
 
