@@ -1,5 +1,5 @@
 
-My Codewars Profile Badge :D
+My Codewars Profile Badge:
 
 <p align="left">
   <a target="_blank" href="https://www.codewars.com/users/atafah">
@@ -9,7 +9,7 @@ My Codewars Profile Badge :D
 
 
 
-My BOOT.DEV Profile :D
+My BOOT.DEV Profile:  :D
 
 <p align="left">
   <a target="_blank" href="https://www.boot.dev/u/atafah">
