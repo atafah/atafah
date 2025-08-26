@@ -2,8 +2,8 @@
 My Codewars Profile Badge :D
 
 <p align="left">
-  <a target="_blank" href="https://www.codewars.com/users/pro.programmer">
-    <img src="https://www.codewars.com/users/pro.programmer/badges/large">
+  <a target="_blank" href="https://www.codewars.com/users/atafah">
+    <img src="https://www.codewars.com/users/atafah/badges/large">
   </a>
 </p>
 
