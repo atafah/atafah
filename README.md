@@ -1,11 +1,11 @@
-$${\color{green}Green}$$My BOOT.DEV Profile  :D
+My $${\color{green}BOOT.DEV}$$ Profile  :D
+<code style="color : red">text</code>
 
 <p align="left">
   <a target="_blank" href="https://www.boot.dev/u/atafah">
     <img src="https://api.boot.dev/v1/users/public/5f5b8811-5e83-4744-833a-f1dcea42576d/thumbnail" >
   </a>
 </p>
-
 
 
 
