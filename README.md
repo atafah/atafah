@@ -1,5 +1,5 @@
-My $${\color{green}BOOT.DEV}$$ Profile  :D
-<code style="color : red">text</code>
+## My $${\color{Blue}BOOT.DEV}$$ Profile  :D
+
 
 <p align="left">
   <a target="_blank" href="https://www.boot.dev/u/atafah">
@@ -9,7 +9,7 @@ My $${\color{green}BOOT.DEV}$$ Profile  :D
 
 
 
-My Codewars Profile Badge:
+## My Codewars Profile Badge:
 
 <p align="left">
   <a target="_blank" href="https://www.codewars.com/users/atafah">
