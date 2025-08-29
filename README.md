@@ -1,4 +1,4 @@
-My BOOT.DEV Profile:  :D
+My BOOT.DEV Profile  :D
 
 <p align="left">
   <a target="_blank" href="https://www.boot.dev/u/atafah">
