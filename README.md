@@ -1,6 +1,7 @@
 ##  My `Daily.Dev` Profile
 
-<a href="https://app.daily.dev/atafah"><img src="https://api.daily.dev/devcards/v2/kgptPflroZFxpsycDYhM5.png?type=default&r=n11" width="356" alt="anas tafah's Dev Card"/></a>
+<a href="https://app.daily.dev/atafah"><img src="./devcard.png" width="356" alt="anas tafah's Dev Card"/></a>
+
 
 ##  My `BOOT.DEV` Profile  :D
 
