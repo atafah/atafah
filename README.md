@@ -1,4 +1,4 @@
-<h1 align="center">👋</h1>
+<h1 align="left">👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+on+my+github+profile)](https://git.io/typing-svg)
 
