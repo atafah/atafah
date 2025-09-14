@@ -11,8 +11,9 @@
 
 ##  My `Daily.Dev` Profile
 
+<p align="center">
 <a href="https://app.daily.dev/atafah"><img src="./devcard.png" width="356" alt="anas tafah's Dev Card"/></a>
-
+</p>
 
 
 ## My	`Codewars` Profile Badge:
