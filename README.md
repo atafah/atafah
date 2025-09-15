@@ -26,4 +26,16 @@
   </a>
 </p>
 
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/atafah/atafah/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
 <p align="center">Thank you for your visit !</p>
