@@ -1,6 +1,7 @@
-<h1 align="left">👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&center=true&width=435&lines=Welcome+%F0%9F%91%8B+to+my+github+profile;Welcome+%F0%9F%91%8B+to+my+github+profile;Welcome+%F0%9F%91%8B+to+my+github+profile;Welcome+%F0%9F%91%8B+to+my+github+profile;Welcome+%F0%9F%91%8B+to+my+github+profile" alt="Typing SVG" /></a>
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+on+my+github+profile)](https://git.io/typing-svg)
 
 ##  `BOOT.DEV` Profile
 <p align="center">
