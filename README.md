@@ -24,4 +24,4 @@ a passionate developer continuously learning and building cool things. I enjoy s
 <p align="center">
 🙌 Thanks for Visiting!
   <br/>
-I'm glad you stopped by. Feel free to explore my repositories, connect with me</p>
+I'm glad you stopped by. Feel free to explore my repositories and connect with me</p>
