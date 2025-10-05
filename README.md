@@ -14,5 +14,7 @@ a passionate developer continuously learning and building cool things. I enjoy s
 <h2>🧠 Codewars Progress</h2>
 <p align="center"> <a href="https://www.codewars.com/users/atafah" target="_blank"> <img src="https://www.codewars.com/users/atafah/badges/large" alt="Codewars Badge" /> </a> </p>
 
+<p align="center">
 🙌 Thanks for Visiting!
-<p align="center"> I'm glad you stopped by. Feel free to explore my repositories, connect with me</p>
+  <br/>
+I'm glad you stopped by. Feel free to explore my repositories, connect with me</p>
