@@ -6,7 +6,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving hand gif" />
 </h1>
 
-
 <p align="center"> <img src="https://raw.githubusercontent.com/atafah/atafah/output/snake.svg" alt="GitHub activity animation" /> </p>
 
 <h2>🚀 About Me</h2>
@@ -18,7 +17,7 @@ a passionate developer continuously learning and building cool things. I enjoy s
 <h2>📰 Daily.dev Feed</h2>
 <p align="center"> <a href="https://app.daily.dev/atafah"> <img src="./devcard.png" width="356" alt="Daily.dev Card" /> </a> </p>
 
-<h2>🧠 Codewars Progress</h2>
+<h2>⚔️ Codewars Progress</h2>
 <p align="center"> <a href="https://www.codewars.com/users/atafah" target="_blank"> <img src="https://www.codewars.com/users/atafah/badges/large" alt="Codewars Badge" /> </a> </p>
 
 <p align="center">
